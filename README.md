@@ -2,6 +2,9 @@
 
 Data from https://datahub.io/core/country-list#resource-country-list_zip combined into one JSON structure.
 
+- combined.iso2.json - has ISO 3166-1 alpha-2 as key (DK, GB, US)
+- combined.iso3.json - has ISO 3166-1 alpha-3 as key (DNK, GBR, USA)
+
 ## Continents Codes
 
 A JSON file that maps ISO2 country codes to ISO2 continent codes
