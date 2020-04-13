@@ -7,7 +7,6 @@ Data from https://datahub.io/core/country-list#resource-country-list_zip combine
 
 Each country has a structure like:
 ```json
-{
 "US": {
         "names": "United States",
         "iso2": "US",
@@ -16,8 +15,7 @@ Each country has a structure like:
         "phone": "1",
         "currency": "USD",
         "iso3": "USA"
-    }
-}
+    },
 ```
 
 ## Continents Codes
