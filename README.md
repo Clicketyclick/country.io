@@ -1,5 +1,6 @@
 # Country.io
 
+Data from https://datahub.io/core/country-list#resource-country-list_zip combined into one JSON structure.
 
 ## Continents Codes
 
