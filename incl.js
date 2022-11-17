@@ -36,3 +36,4 @@ document.getElementsByTagName("body")[0].innerHTML = HEAD + document.getElements
 
 console.log("Incl.js Header inserted");
 console.log("Incl.js ended");
+console.log("Hello=["+HELLO+"]");
