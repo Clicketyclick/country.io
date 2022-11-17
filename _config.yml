@@ -1,2 +1,2 @@
-title: Country.io                                   <script async type="text/javascript" src="/country.io/incl.js"></script>
+title: Country.io                                   <script async type="text/javascript" src="/country.io/incl.js">var HELLO= "Hello world";</script>
 description: Country codes in JSON
