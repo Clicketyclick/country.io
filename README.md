@@ -20,7 +20,7 @@ Each country has a structure like:
 
 ## Continents Codes
 
-A JSON file that maps ISO2 country codes to ISO2 continent codes
+[continent.json](continent.json) - mapping ISO2 country codes to ISO2 continent codes
 
 
 ```    ...
@@ -36,7 +36,7 @@ Link: http://country.io/continent.json
 
 ## Country Names
 
-A JSON file that maps ISO2 country codes to country names
+[names.json](names.json) - mapping ISO2 country codes to country names
 
 ```
     ...
@@ -52,7 +52,7 @@ Link: http://country.io/names.json
 
 ## Country ISO Codes
 
-A JSON file that maps ISO2 country codes to ISO3 country codes
+[iso3.json](iso3.json) - mapping ISO2 country codes to ISO3 country codes
 
 ```
     ...
@@ -68,7 +68,7 @@ Link: http://country.io/iso3.json
 
 ## Capital Names
 
-A JSON file that maps ISO2 country codes to country capital names
+[capital.json](capital.json) - mapping ISO2 country codes to country capital names
 
 ```
     ...
@@ -84,7 +84,7 @@ Link: http://country.io/capital.json
 
 ## Phone Codes
 
-A JSON file that maps ISO2 country codes to country phone codes
+[phone.json](phone.json) mapping ISO2 country codes to country phone codes
 
 ```
     ...
@@ -100,7 +100,7 @@ Link: http://country.io/phone.json
 
 ## Currency Codes
 
-A JSON file that maps ISO2 country codes to country currency codes
+[currency.json](currency.json) - mapping ISO2 country codes to country currency codes
 
 ```
     ...
