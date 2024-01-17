@@ -5,7 +5,7 @@ Converted from **Open Icon Library**
 
 ### Missing 
 
-- BQ	"Bonaire, Saint Eustatius and Saba "
+- BQ	"Bonaire, Sint Eustatius and Saba "
 - XK	"Kosovo"
 - CW	"Curacao"
 - SX	"Sint Maarten"
